@@ -4,4 +4,3 @@ namespace: uat
 resources:
 - nginx-deploy.yaml
 nameSuffix: -uat
-interval: 3m
